@@ -5,5 +5,5 @@ This is a demo for Git and Github.
 Shradha di
 
 # Student
-Deepanshu
+Deepanshu Gunwant
 
